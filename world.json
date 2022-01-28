@@ -38,7 +38,7 @@
       }
     ],
     "socket": false,
-    "manifest": "https://ipfs.io/ipns/k51qzi5uqu5dl9338fpk7jrfx20ayprickx11r7fpyyna5v2982yk404c6q0mo/lmop/lmop-1.0.3/world.json",
+    "manifest": "https://raw.githubusercontent.com/tux234/foundry/main/world.json",
     "download": "https://drive.google.com/file/d/1XfB9CWiRWcQTZny3upPcqP4e2LFYNr9J/view?usp=sharing",
     "protected": false,
     "background": "worlds/uo-cor-ek/scenes/Backgrounds/SDW/icbir-twisted-forest.jpg",
